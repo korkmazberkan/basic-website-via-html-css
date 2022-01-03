@@ -1,0 +1,1 @@
+##Patika platformu css eğitimi kapsamında yaptığım site tasarımı.
